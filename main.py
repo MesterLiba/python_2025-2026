@@ -1,0 +1,15 @@
+import metodusok as m
+
+#m.pelda()
+#m.pelda1()
+#m.pelda2()
+#m.pelda3()
+#m.pelda3_1()
+#m.feladat_1()
+#m.feladat_2()
+#m.feladat_3()
+#m.feladat_4()
+#m.feladat_5()
+#m.feladat_6()
+#m.feladat_7()
+#m.feladat_7_1()
