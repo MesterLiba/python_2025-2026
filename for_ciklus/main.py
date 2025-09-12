@@ -1,4 +1,4 @@
-import metodusok as m
+import for_ciklus.metodusok as m
 
 #m.pelda()
 #m.pelda1()

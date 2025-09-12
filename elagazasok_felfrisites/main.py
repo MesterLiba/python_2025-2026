@@ -1,4 +1,4 @@
-import metodusok as m
+import for_ciklus.metodusok as m
 
 #1. feladat
 #m.egyenlet()
