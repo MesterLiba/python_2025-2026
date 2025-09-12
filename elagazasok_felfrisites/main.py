@@ -4,4 +4,7 @@ import metodusok as m
 #m.egyenlet()
 
 #2. feladat
-m.teglalapjel()
+#m.teglalapjel()
+
+ #3. feladat
+m.for_1()

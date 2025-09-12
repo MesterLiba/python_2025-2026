@@ -35,4 +35,10 @@ def teglalapjel():
         eredmeny.append("Ez egy egészen normális téglalap.")
     for eredmeny in eredmeny:
         print(eredmeny,end=" ")
+
+# 3. for ciklusok
+def for_1():
+    for i in range(10,20,2):
+        print(i) 
+    
     
